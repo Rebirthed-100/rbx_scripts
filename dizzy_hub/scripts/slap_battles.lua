@@ -1,4 +1,4 @@
-local ui_library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/dizyhvh/test_scripts/main/2.lua')))();
+local ui_library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Rebirthed-100/rbx_scripts/main/libraries/libraryhvh.lua')))();
 local gui = ui_library:NewGui();
 local tab1 = gui:NewTab("Combat");
 local tab2 = gui:NewTab("Visuals");
